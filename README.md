@@ -35,8 +35,7 @@
  ✌️ &emsp; Enjoy programming and learning new languages <br/><br/>
  ❤️ &emsp; Love finding programming solutions for physics experiments and problems<br/><br/>
  📧 &emsp; Reach me anytime: harlan.heilman@wsu.edu<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/HarlanHeilman/HarlanHeilman/issues)
-
+ 💬 &emsp; Ask me about anything <a href = "https://github.com/HarlanHeilman/HarlanHeilman/issues"> here </a> <br></br>
 </p>
 <br/>
 <br/>
