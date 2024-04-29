@@ -9,7 +9,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Im a physics Ph.D. canidate at Washington State University 」
+    「 I'm a physics Ph.D. candidate at Washington State University 」
     <br>
     <br>
   </samp>
