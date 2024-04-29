@@ -32,8 +32,6 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
  ✌️ &emsp; Enjoy programming and learning new languages <br/><br/>
  ❤️ &emsp; Love finding programming solutions for physics experiments and problems<br/><br/>
  📧 &emsp; Reach me anytime: harlan.heilman@wsu.edu<br/><br/>
