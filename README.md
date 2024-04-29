@@ -17,10 +17,10 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/harlan-heilman-aa6b81127/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Harlan"/>
  </a>
  <a href="https://www.instagram.com/har.haaaarrr/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Harlan" />
  </a> 
 </p>
 <br />
@@ -45,8 +45,9 @@
 <br/>
 <br/>
 
-## Coding Tools
-
+## Coding Tools & Languages
+<div align = "center">
+	
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,9 +64,12 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
 <br/>
 
-## Top Open Source -
+## Highlighted Open Source Projects
 <p align="center">
 	<a align="left" href="https://github.com/WSU-Carbon-Lab/pyref"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=WSU-Carbon-Lab&repo=pyref&border_color=c6d0f5&bg_color=232634&title_color=81c8be&text_color=c6d0f5&icon_color=ca9ee6"/> </a>
 	<a align="right" href="https://github.com/WSU-Carbon-Lab/xray-atlas"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=WSU-Carbon-Lab&repo=xray-atlas&border_color=c6d0f5&bg_color=232634&title_color=81c8be&text_color=c6d0f5&icon_color=ca9ee6" height = 140/> </a>
