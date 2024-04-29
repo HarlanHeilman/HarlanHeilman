@@ -40,7 +40,6 @@
  💬 &emsp; Ask me about anything [here](https://github.com/HarlanHeilman/HarlanHeilman/issues)
 
 </p>
-
 <br/>
 <br/>
 <br/>
@@ -90,4 +89,4 @@
 </p>
 
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarlanHeilman&bg_color=0D1117&theme=catppuccin_mocha&area=true)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarlanHeilman&theme=catppuccin_mocha&area=true&border_color=c6d0f5&bg_color=232634&title_color=81c8be&text_color=c6d0f5&line=ca9ee6&area_color=ca9ee6&point=ca9ee6&color=81c8be)
