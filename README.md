@@ -68,7 +68,7 @@
 ## Top Open Source -
 <p align="center">
 	<a align="left" href="https://github.com/WSU-Carbon-Lab/pyref"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=WSU-Carbon-Lab&repo=pyref&border_color=c6d0f5&bg_color=232634&title_color=81c8be&text_color=c6d0f5&icon_color=ca9ee6"/> </a>
-	<a align="right" href="https://github.com/WSU-Carbon-Lab/xray-atlas"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=WSU-Carbon-Lab&repo=xray-atlas&border_color=c6d0f5&bg_color=232634&title_color=81c8be&text_color=c6d0f5&icon_color=ca9ee6"/> </a>
+	<a align="right" href="https://github.com/WSU-Carbon-Lab/xray-atlas"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=WSU-Carbon-Lab&repo=xray-atlas&border_color=c6d0f5&bg_color=232634&title_color=81c8be&text_color=c6d0f5&icon_color=ca9ee6" height = 140/> </a>
 </p>
 
 <p align="left">
