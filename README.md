@@ -81,7 +81,7 @@
 
 <p align="center"> 	
 	<a height=200 align="center" href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=HarlanHeilman&show_icons=true&theme=catppuccin_mocha&hide=stars&hide_title=true"/></a>
-	<a height=200 align="center" href="https://github.com/anuraghazra/convoychat"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarlanHeilman&layout=compact&theme=catppuccin_mocha&hide=roff&size_weight=.25&count_weight=.75"/></a>
+	<a height=200 align="center" href="https://github.com/anuraghazra/convoychat"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarlanHeilman&layout=compact&theme=catppuccin_mocha&hide=roff,powershell&size_weight=.25&count_weight=.75"/></a>
 <br/>
 </p>
 
