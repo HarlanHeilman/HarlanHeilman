@@ -76,26 +76,3 @@
 
 </div>
 <br/>
-
-## Highlighted Open Source Projects
-<p align="center">
-	<a align="left" href="https://github.com/WSU-Carbon-Lab/pyref"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=WSU-Carbon-Lab&repo=pyref&border_color=c6d0f5&bg_color=232634&title_color=81c8be&text_color=c6d0f5&icon_color=ca9ee6"/> </a>
-	<a align="right" href="https://github.com/WSU-Carbon-Lab/xray-atlas"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=WSU-Carbon-Lab&repo=xray-atlas&border_color=c6d0f5&bg_color=232634&title_color=81c8be&text_color=c6d0f5&icon_color=ca9ee6" height = 140/> </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/HarlanHeilman?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/> 
-
-<p align="center"> 	
-	<a height=200 align="center" href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=HarlanHeilman&show_icons=true&theme=catppuccin_mocha&hide=stars&hide_title=true"/></a>
-	<a height=200 align="center" href="https://github.com/anuraghazra/convoychat"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarlanHeilman&layout=compact&theme=catppuccin_mocha&hide=roff,powershell&size_weight=.25&count_weight=.75"/></a>
-<br/>
-</p>
-
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarlanHeilman&theme=catppuccin_mocha&area=true&border_color=c6d0f5&bg_color=232634&title_color=81c8be&text_color=c6d0f5&line=ca9ee6&area_color=ca9ee6&point=ca9ee6&color=81c8be)
